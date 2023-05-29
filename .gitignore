@@ -1,3 +1,4 @@
 /target
 *.huff
 .idea
+.DS_Store
